@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MMIS_LBA/static/css/main.f278d1a8.css",
+    "main.js": "/MMIS_LBA/static/js/main.84223ad2.js",
+    "static/js/787.94ba89e3.chunk.js": "/MMIS_LBA/static/js/787.94ba89e3.chunk.js",
+    "index.html": "/MMIS_LBA/index.html",
+    "main.f278d1a8.css.map": "/MMIS_LBA/static/css/main.f278d1a8.css.map",
+    "main.84223ad2.js.map": "/MMIS_LBA/static/js/main.84223ad2.js.map",
+    "787.94ba89e3.chunk.js.map": "/MMIS_LBA/static/js/787.94ba89e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f278d1a8.css",
+    "static/js/main.84223ad2.js"
+  ]
+}
